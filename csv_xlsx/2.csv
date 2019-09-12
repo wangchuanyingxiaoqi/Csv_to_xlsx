@@ -1,0 +1,11 @@
+*姓名/Name,*员工号/Employee Number,出生日期/Birthday（YYYY-MM-DD),入职时间/Hiredate（YYYY-MM-DD）,联系方式/Contact,*标签/Tags（用'/'隔开）,*卡号/Card Number,*照片文件路径/Photo Path（文件夹/文件名）,备注/Notes
+name_0,id_0,2018-08-01,1568266729000,13800000000,tag_0,1230,image/duxin.jpg,test
+name_1,id_1,2018-08-01,1568266729000,13800000000,tag_0,1231,image/duxin.jpg,test
+name_2,id_2,2018-08-01,1568266729000,13800000000,tag_0,1232,image/duxin.jpg,test
+name_3,id_3,2018-08-01,1568266729000,13800000000,tag_0,1233,image/duxin.jpg,test
+name_4,id_4,2018-08-01,1568266729000,13800000000,tag_0,1234,image/duxin.jpg,test
+name_5,id_5,2018-08-01,1568266729000,13800000000,tag_1,1235,image/duxin.jpg,test
+name_6,id_6,2018-08-01,1568266729000,13800000000,tag_1,1236,image/duxin.jpg,test
+name_7,id_7,2018-08-01,1568266729000,13800000000,tag_1,1237,image/duxin.jpg,test
+name_8,id_8,2018-08-01,1568266729000,13800000000,tag_1,1238,image/duxin.jpg,test
+name_9,id_9,2018-08-01,1568266729000,13800000000,tag_1,1239,image/duxin.jpg,test
